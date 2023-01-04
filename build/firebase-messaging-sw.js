@@ -15,7 +15,7 @@ const config = {
 	appId: '1:285415707623:web:867663ac4a06fbe8632342'
 };
 
-const domain = 'new.kennekt.com';
+const domain = 'app.kennekt.com';
 
 // let messaging;
 
