@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkkennekt_front_end_client=self.webpackChunkkennekt_front_end_client||[]).push([[7885],{37885:function(e,n,t){t.r(n),t.d(n,{default:function(){return u}});t(47313);var r=t(9044),c=t(57718),s=t(46417);var u=function(){return(0,c.aU)({}),(0,s.jsx)("div",{className:"h-screen w-full flex justify-center items-center",children:(0,s.jsx)(r.aN,{})})}}}]);
