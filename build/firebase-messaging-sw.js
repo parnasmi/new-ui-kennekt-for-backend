@@ -108,8 +108,7 @@ messaging.setBackgroundMessageHandler((payload) => {
 		push_type === 'new_case' ||
 		push_type === 'member_added' ||
 		push_type === 'member_deleted' ||
-		push_type === 'NEWS' ||
-		push_type === 'CHAT'
+		push_type === 'NEWS'
 	) {
 		return self.registration.showNotification(title, options);
 	}
