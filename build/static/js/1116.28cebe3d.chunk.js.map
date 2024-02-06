@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/1116.28cebe3d.chunk.js","mappings":"ktBAEe,SAASA,IACvB,OAAO","sources":["pages/StaffManagement/components/staffDetails/components/StaffDetailsCases.tsx"],"sourcesContent":["import React from 'react';\n\nexport default function StaffDetailsCases() {\n\treturn <div>Staff cases</div>;\n}\n"],"names":["StaffDetailsCases"],"sourceRoot":""}
