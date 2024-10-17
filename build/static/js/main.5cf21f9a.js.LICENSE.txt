@@ -1,0 +1,7 @@
+//!!There is problem if there is any array value in fetched data payload,
+
+//!TODO: legacy code - remove later.
+
+//!isDelayedMessage - waiting for the download of last page messages
+
+//!searchQuery.length - to indicated searched message we always refetched msg containing page
